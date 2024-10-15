@@ -14,9 +14,13 @@ The report utilizes thematic maps and cartograms to visualize crime data, while 
 Results
 
 Crime Distribution: The highest concentration of crimes occurs in the port area and city center. The most common crime types are violence, antisocial behavior, and criminal damage.
+
 Correlation Analysis: A weak correlation is found between population and crime rates.
+
 Classification Models: The decision tree model achieves 60.34% accuracy, while the random forest model reaches 62.07%.
+
 Conclusion
+
 The findings highlight crime hotspots in Liverpool and the limited predictive power of deprivation indicators for crime classification. Model accuracy may improve with larger datasets and additional features.
 
 Limitations
